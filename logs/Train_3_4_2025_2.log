@@ -1,0 +1,12 @@
+{
+    "timestamp": "2025-04-03 02:10:06",
+    "episode_stats": {
+        "total_reward": 83,
+        "win_rate": 0.0,
+        "epsilon": 0.8307187014821328,
+        "avg_loss": 0,
+        "moves_count": 100,
+        "time_taken": 7.1298840045928955,
+        "final_position": ". . . k r . . .\n. . . . . . . n\n. b R . . . . .\n. . . p r p . .\n. . . . p . p p\n. P P . . . P N\n. . . K P . . P\n. . . . Q B n ."
+    }
+}

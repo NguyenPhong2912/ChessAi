@@ -1,0 +1,11 @@
+{
+    "timestamp": "2025-04-03 09:50:14",
+    "episode_stats": {
+        "total_reward": 18.800000000000008,
+        "checkmate_count": 0,
+        "epsilon": 0.26821270151351667,
+        "moves_count": 200,
+        "time_taken": 168.02540707588196,
+        "final_position": ". . . . . r . k\n. . P . . . n .\n. . . . . . . .\nR R . . . . . p\np . . p . p . P\nN . . . . . . .\n. . . K Q . . .\n. . . . . . . ."
+    }
+}

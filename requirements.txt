@@ -1,0 +1,7 @@
+python >= 3.6-3.9
+numpy
+matplotlib
+torchvision
+tensorflow
+pandas
+
