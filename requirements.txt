@@ -4,4 +4,7 @@ matplotlib
 torchvision
 tensorflow
 pandas
+chess
+ultralytics
+# trong ultralytics có pytorch
 
